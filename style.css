@@ -1,0 +1,158 @@
+h1,h2,h3
+.Dai-font {
+    font-family: 'Dai Banna SIL', cursive;
+}
+
+h5 {font-weight: 500;}
+
+p {
+    font-family: "Noto Serif KR", serif;
+}
+
+.dropdown-item {font-family: "Noto Serif KR", serif; font-weight: 500; font-size: 10pt;}
+
+.korean {font-family: "Noto Serif KR", serif;}
+
+hr {opacity: 100; width: 99%; height: 0.7px; background-color:#2D1008;}
+
+.card-title {
+    font-family: 'Dai Banna SIL', cursive;
+}
+
+/* 네비게이션 영역 */
+.nav-link {color:#ffffff; font-family: 'Dai Banna SIL', cursive;}
+.nav-link:hover,
+.nav-link.active {
+    color: #AE8B75 !important;
+    
+}
+
+/* navbar */
+.navbar {
+    background-color: #2D1008;
+}
+
+body { background-color: #F2F2F2;}
+
+.fw-bold {font-family: 'Dai Banna SIL', cursive;}
+
+/* 헤더 영역 */
+header {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(main_image.jpeg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    font-family: "Noto Serif KR", serif;
+    font-size: 14pt;
+    font-weight: 200;
+
+    padding-left: 170px;
+    padding-bottom: -20px;
+}
+
+/* 인용 영역 */
+#quote {background-color: #F2F2F2;}
+
+/* 역사 영역 */
+#introduce {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(KakaoTalk_20240618_134026984.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* 효능 영역 */
+.card-hover:hover {
+    background-color: #e4d7c4;
+}
+
+#type {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(AdobeStock_285611806.jpeg);
+    background-size: cover;
+    background-position: center top;
+    /* background-attachment: fixed; */
+    font-family: "Noto Serif KR", serif;
+    font-size: 16pt;
+    font-weight: 200;
+}
+
+#type2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(background.jpg);
+    background-size: cover;
+    background-position: center top;
+    /* background-attachment: fixed; */
+    font-family: "Noto Serif KR", serif;
+    font-size: 16pt;
+    font-weight: 200;
+}
+
+.flag {margin-top: 140px; }
+
+.country_ex {font-size: 12pt; font-family: "Noto Serif KR", serif;}
+
+.brand_ex {margin-top: 20px; background-color:#ffffff;}
+
+.example {font-size: 12pt; color: #4B3A26;}
+
+.btn-outline-warning {font-size: 11pt; font-family: "Noto Serif KR", serif; color: 	#AF9A7E; border-color: #AF9A7E;}
+.btn:hover {background-color: 	#AF9A7E; color: #ffffff; border-color: #AF9A7E;}
+
+.btn-outline-light {font-family: "Noto Serif KR", serif;}
+
+/* 브랜드 영역 */
+
+#lindt {background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(Lindt-productos-230719.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed}
+
+#toblerone {background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(original-Untitled_design_-_2023-03-30T135601.705-125611.avif);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed}
+
+#GUYLIAN {background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(Guylian_DarkPraline_008.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed}
+
+#GODIVA {background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(godiva.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed}
+
+#Ferrero {background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(christmas-special-homepage_carousel.avif);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed}
+
+#perugina {background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(baci-perugina-original-dark-internal-view_0.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed}
+
+#royce {background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(Nama-Boxes-and-Brown-Ribbon-1-Vertical_Web_801a50c6-79ae-4134-ad57-9036ecc79f67.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed}
+
+#CADBURY {background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(DESKTOP_-_HUB_-_LIMITED_EDITION_PACKS.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed}
+
+#HERSHEY {background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(home-earned-1-the-hershey-company\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed}
+
+#MMS {background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(1-26-21_MMS_PURPOSE_LENTILS_IG_FEED.webp);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed}
+
+.korean {font-family: "Noto Serif KR", serif;}
+
+#footer {position: relative;
+
+    padding: 29px 0;}
